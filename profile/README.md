@@ -5,7 +5,7 @@ Tim intern untuk melakukan _research_ berdasarkan masalah di Infinite Learning d
 ## Head Tim R&D IL
 Nama | Asal Kampus | Jurusan | Github Profile
 :---|:---:|:---:|---:
-Ghora Laziola| Universitas Maritim Raja Ali Haji | Teknik Informatika | [Profile]
+Ghora Laziola| Universitas Maritim Raja Ali Haji | Teknik Informatika | [Profile](https://github.com/arqualian)
 
 ## Team Member
 Internship Research & Development Infinite Learning
