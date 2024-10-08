@@ -10,7 +10,7 @@ Ghora Laziola| Universitas Maritim Raja Ali Haji | Teknik Informatika | [Profile
 ## Project Supervisor
 Nama | Asal Kampus | Jurusan | Github Profile
 :---|:---:|:---:|---:
-O.MIDIYANTO| Universitas Maritim Raja Ali Haji | ENGINEERING | [Profile](https://github.com/omidiyanto/omidiyanto)
+O.MIDIYANTO| Universitas Maritim Raja Ali Haji | ENGINEERING | [Profile](https://github.com/omidiyanto/)
 
 ## Team Member
 Internship Research & Development Infinite Learning
