@@ -7,6 +7,11 @@ Nama | Asal Kampus | Jurusan | Github Profile
 :---|:---:|:---:|---:
 Ghora Laziola| Universitas Maritim Raja Ali Haji | Teknik Informatika | [Profile](https://github.com/arqualian)
 
+## Project Supervisor
+Nama | Asal Kampus | Jurusan | Github Profile
+:---|:---:|:---:|---:
+O.MIDIYANTO| Universitas Maritim Raja Ali Haji | ENGINEERING | [Profile](https://github.com/omidiyanto/omidiyanto)
+
 ## Team Member
 Internship Research & Development Infinite Learning
 Nama | Asal Kampus | Jurusan | Github Profile
